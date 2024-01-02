@@ -7,7 +7,7 @@ The TodoList app is a lightweight and user-friendly task management application 
 <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Github-Dark.svg" width="50">
 
 ## Hosted Link
-https://albums-collection-sepia.vercel.app/](https://adityalambat.github.io/ToDoList
+https://adityalambat.github.io/ToDoList
 
 ## Features
 
