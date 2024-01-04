@@ -5,17 +5,18 @@
 </p>
 
 ## Deployed On
-### GitHub
+**GitHub**
 <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Github-Dark.svg" width="50">
 
 ## Hosted Link
 https://adityalambat.github.io/ToDoList
 
 ## Features
-
+````
 1. Add Task
 2. Clear Task
 3. View Task
+````
 
 ## Technologies Used
 
@@ -30,15 +31,11 @@ The ToDoList is build using the following technologies:
 ## Getting Started
 
 To set up the project on your local machine, follow these steps:
-````
-1. Clone the repository.
-2. Click on 'index.html'
+````Clone the repository.
 ````
 
 ### After reaching the project directory you have to click index.html.
-````
-index.html
-
+````index.html
 ````
 
 ### Folder Structure
