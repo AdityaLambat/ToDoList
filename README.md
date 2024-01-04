@@ -6,6 +6,7 @@
 
 ## Deployed On
 **GitHub**
+<br>
 <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Github-Dark.svg" width="50">
 
 ## Hosted Link
