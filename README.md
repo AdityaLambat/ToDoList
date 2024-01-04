@@ -32,11 +32,13 @@ The ToDoList is build using the following technologies:
 ## Getting Started
 
 To set up the project on your local machine, follow these steps:
-````Clone the repository.
+````
+Clone the repository.
 ````
 
 ### After reaching the project directory you have to click index.html.
-````index.html
+````
+index.html
 ````
 
 ### Folder Structure
