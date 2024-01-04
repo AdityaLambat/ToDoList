@@ -1,6 +1,8 @@
 # ToDoList
 
-The TodoList app is a lightweight and user-friendly task management application that empowers users to efficiently organize their daily activities. Developed using Vanilla JavaScript, HTML, and CSS, the app provides a seamless and intuitive interface for users to interact with their to-do list.
+<p align="justify">
+  The TodoList app is a lightweight and user-friendly task management application that empowers users to efficiently organize their daily activities. Developed using Vanilla JavaScript, HTML, and CSS, the app provides a seamless and intuitive interface for users to interact with their to-do list.
+</p>
 
 ## Deployed On
 ### GitHub
